@@ -17,4 +17,8 @@ Customization
 If you want to customize the analog clock, you can modify the CSS code in the style.css file. 
 You can change the colors, size, and position of the clock hands, as well as the background color of the clock face.
 
+Acknowledgments
+This project was inspired by the various analog clock examples available on the web.
+
+
 Thank You
